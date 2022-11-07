@@ -22,5 +22,5 @@
 ## Colab
   - https://colab.research.google.com/drive/1RwzjD3GzMvOVgx7hCNnseFtbSPaoEjTM?usp=sharing
 ## Presentation
-  -
+  - https://www.canva.com/design/DAFRQLbbk7s/3ba8fsyGhBYsv-zlVdoJIA/edit?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
