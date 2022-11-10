@@ -7,11 +7,13 @@
 1. นางสาวธนภรณ์ บุญหลักคำ 633020551-0
 2. นางสาวนารากร วรกุล     633020553-6
 3. นายสุริยา ปันดอน      633020554-4
+## * [Midterm](https://colab.research.google.com/drive/1Fm5jthNhNPm04wIqR8piy2HN7Pwoeh0q?usp=sharing)
 
 # กลุ่ม Final
 1. นางสาวนารากร วรกุล     633020553-6
 2. นางสาวปิ่นมนัส สุระเกษ 633021018-3
 3. นางสาวอภิสรา ปราบนอก 633020450-6
+## * [Final](https://colab.research.google.com/drive/1Fm5jthNhNPm04wIqR8piy2HN7Pwoeh0q?usp=sharing)
 
 # กลุ่ม PROJECT
 1. นางสาวธนภรณ์ บุญหลักคำ 633020551-0
